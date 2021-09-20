@@ -7,5 +7,5 @@ VUE + POKEAPI
 ```
 ![Preview-Screens](https://github.com/jeanjjp/pokeVue/blob/master/preview.png)
 
-### Customize configuration
+### Créditos
 [API Utilizada](https://pokeapi.co).
