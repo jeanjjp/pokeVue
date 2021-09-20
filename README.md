@@ -1,24 +1,11 @@
-# teste2
+# POKEVUE
 
-## Project setup
+## SOBRE
 ```
-npm install
+Apenas para aprendizado e diversão
+VUE + POKEAPI
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+![Preview-Screens](https://github.com/jeanjjp/pokeVue/blob/master/preview.png)
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[API Utilizada](https://pokeapi.co).
